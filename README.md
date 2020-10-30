@@ -7,7 +7,8 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-<div align="center"><img src="https://github.com/iguit0/iguit0/blob/master/images/stat.svg" alt="WakaTime Activity"/></div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
