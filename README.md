@@ -8,6 +8,13 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   14 hrs 31 mins  █████████▓░░░░░░░░░░░░░░░   38.33 % 
+Python       7 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+JavaScript   4 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Vue.js       4 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Markdown     2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+```
 <!--END_SECTION:waka-->
 <br>
 
