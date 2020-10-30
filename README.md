@@ -7,6 +7,8 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
+## :bar_chart: Weekly Coding
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   14 hrs 31 mins  █████████▓░░░░░░░░░░░░░░░   38.33 % 
