@@ -9,11 +9,11 @@
 ## :man_technologist: Weekly Coding
 <!--START_SECTION:waka-->
 ```text
-Python       20 hrs 53 mins  ███████████████▓░░░░░░░░░   62.24 % 
-JavaScript   5 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 % 
-YAML         2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-TypeScript   1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Vue.js       1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Python       22 hrs 11 mins  ████████████████▒░░░░░░░░   64.79 % 
+JavaScript   5 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+YAML         2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Vue.js       1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+TypeScript   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 <!--END_SECTION:waka-->
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
