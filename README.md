@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  :computer: <strong>Python, Bottle, PostgreSQL, AWS DynamoDB, Laravel, React, ReactNative, Vue, TypeScript, JavaScript, AntDesign, Quasar Framework, Vuetify, Jest, Enzyme, Pytest.</strong>
+  :computer: <strong>Python, Bottle, PostgreSQL, AWS DynamoDB, Laravel, React, React Native, Vue, TypeScript, JavaScript, Styled Components, AntDesign, Quasar Framework, Vuetify, Jest, Enzyme, Pytest.</strong>
 </p>
 
 <p align="left">
