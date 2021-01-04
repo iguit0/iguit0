@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=iguit0&show_icons=true&count_private=true&theme=tokyonight" min-width="400px" max-width="400px" width="400px" align="right" />
 
 <p align="left"> 
-  :bust_in_silhouette: Passionate about creating responsive and high performance products.<br/>
+  :bust_in_silhouette: Passionate about creating responsive and high performance products.
   I'm highly detail oriented person and have a great sense of teamwork.
 </p>
 
