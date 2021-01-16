@@ -12,11 +12,11 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-lucio-alves" /></a>
+  <a href="https://www.linkedin.com/in/igor-lucio-alves" target="_blank" rel="noopener noreferrer" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <a href="#" alt="Telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/iguit0" /></a>
+  <a href="https://t.me/iguit0" target="_blank" rel="noopener noreferrer" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
