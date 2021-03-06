@@ -24,11 +24,11 @@
 ## :man_technologist: Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   30 hrs 6 mins   ████████████▓░░░░░░░░░░░░   51.19 % 
-JavaScript   15 hrs 29 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.35 % 
-Vue.js       8 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Python       1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-YAML         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript   27 hrs 5 mins   ████████████░░░░░░░░░░░░░   47.43 % 
+Vue.js       11 hrs 47 mins  █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+JavaScript   10 hrs 42 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python       4 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+YAML         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
