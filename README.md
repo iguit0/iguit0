@@ -1,4 +1,4 @@
-# :blush: Hi, my name is Igor Lucio :v:
+# :blush: Hi, my name is Igor Alves :v:
 
 <img src="https://github-readme-stats.vercel.app/api?username=iguit0&show_icons=true&count_private=true&theme=tokyonight" min-width="400px" max-width="400px" width="400px" align="right" />
 
