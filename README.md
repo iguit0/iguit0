@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  :computer: <strong>Python, Bottle, PostgreSQL, AWS DynamoDB, Laravel, React, React Native, Vue, TypeScript, JavaScript, Styled Components, AntDesign, Quasar Framework, Vuetify, Jest, Enzyme, Pytest.</strong>
+  :computer: <strong>Python, PHP, JavaScript, TypeScript, PostgreSQL, MySQL, Bottle, Zappa, AWS DynamoDB, Laravel, ReactJS, VueJS, AntDesign, Quasar Framework, Jest, Pytest.</strong>
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/igor-lucio-alves" target="_blank" rel="noopener noreferrer" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/igor-lucio-alves" target="_blank" rel="noopener noreferrer" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <a href="https://t.me/iguit0" target="_blank" rel="noopener noreferrer" alt="Telegram">
@@ -31,5 +31,3 @@ JSON         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░
 Other        33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
