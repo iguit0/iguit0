@@ -1,6 +1,6 @@
 # :blush: Hi, my name is Igor Alves :v:
 
-<img src="https://github-readme-stats.vercel.app/api?username=iguit0&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast" min-width="400px" max-width="400px" width="400px" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=iguit0&show_icons=true&include_all_commits=true&count_private=true&theme=dark" min-width="400px" max-width="400px" width="400px" align="right" />
 
 <p align="left"> 
   :bust_in_silhouette: Passionate about creating responsive and high performance products.
