@@ -24,10 +24,10 @@
 ## :man_technologist: Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   18 hrs 28 mins  ████████████░░░░░░░░░░░░░   48.51 % 
-Python       9 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.85 % 
-Vue.js       3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-PHP          2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-JSON         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript   18 hrs 28 mins  ████████████▒░░░░░░░░░░░░   48.81 % 
+Python       9 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.00 % 
+Vue.js       3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+PHP          2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Markdown     43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 <!--END_SECTION:waka-->
