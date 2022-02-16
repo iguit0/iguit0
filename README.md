@@ -24,6 +24,8 @@
 ## :man_technologist: Weekly Stats
 <!--START_SECTION:waka-->
 ```text
+Total: 22 hrs 46 mins
+
 TypeScript   14 hrs 17 mins  ███████████████▓░░░░░░░░░   62.75 % 
 Python       4 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
 YAML         1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
