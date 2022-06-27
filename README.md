@@ -1,14 +1,17 @@
 # :blush: Hi
 
-<img src="https://github-readme-stats.vercel.app/api?username=iguit0&show_icons=true&include_all_commits=true&count_private=true&theme=dark" min-width="400px" max-width="400px" width="400px" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=iguit0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" min-width="400px" max-width="400px" width="400px" align="right" />
 
 <p align="left"> 
   :dart: Passionate about creating responsive and high performance products.
-  I'm highly detail oriented person and have a great sense of teamwork.
 </p>
 
 <p align="left">
-  Tech: <strong>Python, PHP, JavaScript, TypeScript, PostgreSQL, MySQL, Bottle, Zappa, AWS DynamoDB, Laravel, ReactJS, VueJS, AntDesign, Quasar Framework, Jest, Pytest.</strong>
+  ➡️ Languages: Python, JavaScript, TypeScript, PHP<br>
+  ➡️ Front End: React, Vue, Quasar Framework, Ant Design, Material UI<br>
+  ➡️ Back End: FastAPI, Flask, Laravel (PHP), Express (JavaScript)<br>
+  ➡️ Databases: PostgreSQL, MySQL, MongoDB, Firebase<br>
+  ➡️ Testing: Jest, Pytest, Cypress<br>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
