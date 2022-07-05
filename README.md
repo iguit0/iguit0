@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  ➡️ Languages: Python, JavaScript, TypeScript, PHP<br>
-  ➡️ Front End: React, Vue, Quasar Framework, Ant Design, Material UI<br>
-  ➡️ Back End: FastAPI, Flask, Laravel (PHP), Express (JavaScript)<br>
-  ➡️ Databases: PostgreSQL, MySQL, MongoDB, Firebase<br>
-  ➡️ Testing: Jest, Pytest, Cypress<br>
+  ➡️ <strong>Languages</strong>: Python, JavaScript, TypeScript, PHP<br>
+  ➡️ <strong>Frontend</strong>: React, Vue, Quasar Framework, Ant Design, Material UI<br>
+  ➡️ <strong>Backend</strong>: FastAPI, Flask, Laravel (PHP), Express (JavaScript)<br>
+  ➡️ <strong>Databases</strong>: PostgreSQL, MySQL, MongoDB, Firebase<br>
+  ➡️ <strong>Testing</strong>: Jest, Pytest, Cypress<br>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
