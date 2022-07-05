@@ -12,7 +12,7 @@
   ➡️ Testing: Jest, Pytest, Cypress<br>
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
 ## :man_technologist: Weekly Stats
 <!--START_SECTION:waka-->
