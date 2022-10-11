@@ -5,9 +5,9 @@
 </p>
 
 <p align="left">
-  ➡️ <strong>Languages</strong>: Python, JavaScript, TypeScript, PHP<br>
+  ➡️ <strong>Languages</strong>: Python, JavaScript, TypeScript<br>
   ➡️ <strong>Frontend</strong>: React, Vue, Quasar Framework, Ant Design, Material UI<br>
-  ➡️ <strong>Backend</strong>: FastAPI, Flask, Laravel (PHP), Express (JavaScript)<br>
+  ➡️ <strong>Backend</strong>: FastAPI, Flask<br>
   ➡️ <strong>Databases</strong>: PostgreSQL, MySQL, MongoDB, Firebase<br>
   ➡️ <strong>Testing</strong>: Jest, Pytest, Cypress<br>
 </p>
