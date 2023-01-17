@@ -1,4 +1,4 @@
-<p align="left"> 
+<p align="center"> 
   :thought_balloon: "If there is no struggle, there is no progress"
 </p>
 
