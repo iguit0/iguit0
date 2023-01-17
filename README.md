@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=iguit0&show_icons=true&include_all_commits=true&count_private=true&theme=dark" min-width="400px" max-width="400px" width="400px" align="right" />
-
 <p align="left"> 
   :thought_balloon: "If there is no struggle, there is no progress"
 </p>
