@@ -6,7 +6,7 @@
   ➡️ <strong>Languages</strong>: Python, JavaScript, TypeScript<br>
   ➡️ <strong>Frontend</strong>: React, Vue, Quasar Framework, Material UI<br>
   ➡️ <strong>Backend</strong>: FastAPI, Flask<br>
-  ➡️ <strong>Databases</strong>: PostgreSQL, MySQL, MongoDB, Firebase<br>
+  ➡️ <strong>Databases</strong>: PostgreSQL, MySQL, MongoDB<br>
   ➡️ <strong>Testing</strong>: Jest, Pytest<br>
 </p>
 
