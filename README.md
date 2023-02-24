@@ -1,5 +1,5 @@
 <p align="center"> 
-  :thought_balloon: "If there is no struggle, there is no progress"
+  "If there is no struggle, there is no progress" :thought_balloon:
 </p>
 
 <p align="left">
