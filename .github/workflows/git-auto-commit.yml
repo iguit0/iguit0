@@ -21,6 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3      
         with:
+         ref: ${{ github.head_ref }}
          persist-credentials: false
          fetch-depth: 0
 
@@ -57,3 +58,4 @@ jobs:
         with:
           directory: "."
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.head_ref }}
