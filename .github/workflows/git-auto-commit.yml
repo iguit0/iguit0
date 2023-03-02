@@ -23,7 +23,6 @@ jobs:
         with:
          persist-credentials: false
          fetch-depth: 0
-         ref: main
 
       - name: Modify last update
         run: |
@@ -32,6 +31,7 @@ jobs:
           
       - name: Commit changes
         run: |
+          git checkout main
           git config --local user.email "igorsk89@gmail.com"
           git config --local user.name "Igor Alves"
           git add -A
