@@ -21,7 +21,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3      
         with:
-         ref: main
          persist-credentials: false
          fetch-depth: 0
 
@@ -32,6 +31,7 @@ jobs:
           
       - name: Commit changes
         run: |
+          git fetch && git pull
           git checkout main
           git config --local user.email "igorsk89@gmail.com"
           git config --local user.name "Igor Alves"
