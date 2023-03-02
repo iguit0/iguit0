@@ -1,0 +1,19 @@
+name: Auto Commit
+
+on: push
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_user_name: Igor Alves
+          commit_user_email: igorsk89@gmail.com
+          commit_author: Igor Alves <igorsk89@gmail.com> 
