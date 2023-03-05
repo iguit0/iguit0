@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2019 - To: 02 March 2023
+From: 22 November 2019 - To: 03 March 2023
 
-Total Time: 4,828 hrs 51 mins
+Total Time: 4,834 hrs 37 mins
 
-TypeScript         1,330 hrs 55 mins⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.56 %
-JavaScript         1,140 hrs 4 mins⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.61 %
-Python             1,098 hrs 51 mins⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.76 %
-Vue.js             646 hrs 59 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.40 %
-PHP                133 hrs 29 mins ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.76 %
-JSON               118 hrs 25 mins ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.45 %
+TypeScript         1,335 hrs 10 mins███████░░░░░░░░░░░░░░░░░░   27.62 %
+JavaScript         1,140 hrs 4 mins██████░░░░░░░░░░░░░░░░░░░   23.58 %
+Python             1,099 hrs 6 mins█████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+Vue.js             647 hrs 59 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+PHP                133 hrs 40 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+JSON               118 hrs 25 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
