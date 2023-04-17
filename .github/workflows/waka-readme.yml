@@ -17,6 +17,6 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
-          LANG_COUNT: 4
+          LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
