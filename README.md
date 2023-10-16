@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2023 - To: 13 October 2023
+From: 07 October 2023 - To: 14 October 2023
 
-TypeScript         33 hrs 50 mins  ██████████████████████▒░░   89.67 %
-JSON               2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-YAML               25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript         33 hrs 56 mins  ██████████████████████▒░░   89.28 %
+JSON               1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+YAML               32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 CBM BASIC V2       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Java Properties    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+ActionScript 3     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
