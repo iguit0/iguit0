@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2023 - To: 06 December 2023
+From: 30 November 2023 - To: 07 December 2023
 
-Python             15 hrs 7 mins   ████████████▒░░░░░░░░░░░░   49.35 %
-TypeScript         12 hrs 3 mins   █████████▓░░░░░░░░░░░░░░░   39.32 %
-JSON               2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Other              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Bash               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Python             19 hrs 15 mins  ███████████████▒░░░░░░░░░   61.33 %
+TypeScript         8 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
+JSON               2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+reStructuredText   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
