@@ -39,6 +39,8 @@ jobs:
           arr[0]="chore: 🤖 auto commit"
           arr[1]="chore: 🟩 auto commit"
           arr[2]="chore: 👻 auto commit"
+          arr[3]="chore: 🦄 auto commit"
+          arr[4]="chore: 🦴 auto commit"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
