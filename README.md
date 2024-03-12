@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/igor-lucio-alves">LinkedIn</a> •
   <a href="https://t.me/iguit0">Telegram</a>
+  <a href="https://stackoverflow.com/users/12039222/igor-alves">StackOverflow</a>
 </p>
 
 -------
