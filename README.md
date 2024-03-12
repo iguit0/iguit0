@@ -6,13 +6,13 @@
 
 -------
 
-🚀 **Stats**
+<!--🚀 **Stats**
 
 <div align="center">
   <img height="200px" alt="iguit0-card-stats" src="https://github-readme-stats.vercel.app/api?username=iguit0&show_icons=false&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide=contribs&rank_icon=github"/>
-</div>
+</div>-->
 
--------
+<!------->
 
 🎯 **Tech Stack**
 
