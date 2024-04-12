@@ -33,9 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 April 2024 - To: 09 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-No activity tracked
+Markdown   7 mins          >>>>>>>>>>>>>>>>>>>>-----   79.14 %
+Bash       1 min           >>>>>--------------------   19.19 %
+Other      0 secs          -------------------------   01.67 %
 ```
 
 <!--END_SECTION:waka-->
