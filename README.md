@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 May 2024 - To: 16 May 2024
+From: 10 May 2024 - To: 17 May 2024
 
-TypeScript    44 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.84 %
-JSON          1 hr 11 mins    >------------------------   02.50 %
-Markdown      36 mins         -------------------------   01.29 %
-JavaScript    33 mins         -------------------------   01.15 %
-Image (svg)   22 mins         -------------------------   00.80 %
+TypeScript    43 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.88 %
+JSON          1 hr 13 mins    >------------------------   02.64 %
+Markdown      36 mins         -------------------------   01.32 %
+JavaScript    33 mins         -------------------------   01.18 %
+Other         16 mins         -------------------------   00.61 %
 ```
 
 <!--END_SECTION:waka-->
