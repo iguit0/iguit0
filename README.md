@@ -33,12 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 June 2024 - To: 16 June 2024
+From: 10 June 2024 - To: 17 June 2024
 
-TypeScript   18 hrs 43 mins  >>>>>>>>>>>>>>>>>>-------   71.92 %
-Python       4 hrs 29 mins   >>>>---------------------   17.27 %
-Makefile     1 hr 25 mins    >------------------------   05.50 %
-Other        48 mins         >------------------------   03.08 %
+TypeScript   20 hrs 44 mins  >>>>>>>>>>>>>>>>>>>------   74.08 %
+Python       4 hrs 29 mins   >>>>---------------------   16.05 %
+Makefile     1 hr 25 mins    >------------------------   05.11 %
+Other        48 mins         >------------------------   02.86 %
 ```
 
 <!--END_SECTION:waka-->
