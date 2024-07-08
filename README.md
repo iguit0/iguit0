@@ -25,7 +25,7 @@
   <img align="center" alt="iguit0-mongo" heigh="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
   <img align="center" alt="iguit0-mysql" heigh="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="iguit0-postgresql" heigh="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div><br>
+  <img align="center" alt="iguit0-jest" heigh="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 
 -------
 
