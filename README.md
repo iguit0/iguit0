@@ -33,12 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 June 2024 - To: 07 July 2024
+From: 01 July 2024 - To: 08 July 2024
 
-TypeScript   10 hrs 38 mins  >>>>>>>>>>>>>------------   50.47 %
-Python       9 hrs 1 min     >>>>>>>>>>>--------------   42.82 %
-JSON         32 mins         >------------------------   02.55 %
-Other        30 mins         >------------------------   02.40 %
+TypeScript   7 hrs 53 mins   >>>>>>>>>>>>>>>>---------   62.02 %
+Python       3 hrs 26 mins   >>>>>>>------------------   27.01 %
+JSON         32 mins         >------------------------   04.23 %
+Other        30 mins         >------------------------   03.98 %
 ```
 
 <!--END_SECTION:waka-->
