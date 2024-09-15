@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-TypeScript    18 hrs 8 mins   >>>>>>>>>>>>>>>>>>-------   73.20 %
-Python        5 hrs 5 mins    >>>>>--------------------   20.51 %
-Bash          53 mins         >------------------------   03.58 %
-CSS           15 mins         -------------------------   01.06 %
-JSON          15 mins         -------------------------   01.04 %
+TypeScript    21 hrs 15 mins  >>>>>>>>>>>>>>>>>>>------   76.31 %
+Python        4 hrs 46 mins   >>>>---------------------   17.16 %
+Bash          51 mins         >------------------------   03.08 %
+JSON          34 mins         >------------------------   02.04 %
+CSS           15 mins         -------------------------   00.95 %
 ```
 
 <!--END_SECTION:waka-->
