@@ -29,6 +29,13 @@
 
 -------
 
+<div align="center">
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=iguit0&theme=onedark&border_radius=16" />
+</div>
+
+-------
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
