@@ -14,11 +14,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SHOW_TIME: true
+          SHOW_TITLE: false
+          SHOW_TIME: false
           CODE_LANG: typescript
           BLOCKS: ->
-          SHOW_MASKED_TIME: true
           STOP_AT_OTHER: true
           LANG_COUNT: 3
           IGNORED_LANGUAGES: YAML JSON TOM Bash
