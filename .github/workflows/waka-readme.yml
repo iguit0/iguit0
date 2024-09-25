@@ -16,8 +16,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TIME: true
-          CODE_LANG: python
+          CODE_LANG: typescript
           BLOCKS: ->
-          SHOW_MASKED_TIME: false
+          SHOW_MASKED_TIME: true
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOM
+          LANG_COUNT: 3
+          IGNORED_LANGUAGES: YAML JSON TOM Bash
