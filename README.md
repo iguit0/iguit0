@@ -37,14 +37,10 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-```python
-From: 16 September 2024 - To: 23 September 2024
-
-TypeScript    28 hrs 41 mins  >>>>>>>>>>>>>>>>>>>------   75.98 %
-Python        5 hrs 46 mins   >>>>---------------------   15.29 %
-Bash          1 hr 43 mins    >------------------------   04.55 %
-JSON          42 mins         -------------------------   01.86 %
-Markdown      36 mins         -------------------------   01.59 %
+```typescript
+TypeScript                    >>>>>>>>>>>>>>>>>>-------   73.81 %
+Python                        >>>>---------------------   17.25 %
+Bash                          >------------------------   05.03 %
 ```
 
 <!--END_SECTION:waka-->
