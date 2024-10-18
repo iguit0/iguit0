@@ -38,8 +38,8 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-TypeScript                   >>>>>>>>>>>>>>>>>>>>-----   79.36 %
-Python                       >>-----------------------   09.43 %
+TypeScript                   >>>>>>>>>>>>>>>>>>>>>----   85.63 %
+Python                       >------------------------   05.57 %
 ```
 
 <!--END_SECTION:waka-->
