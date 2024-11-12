@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 9 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Waka Readme
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -21,4 +21,6 @@ jobs:
           BLOCKS: ->
           STOP_AT_OTHER: true
           LANG_COUNT: 10
-          IGNORED_LANGUAGES: YAML JSON TOM Bash
+          IGNORED_LANGUAGES: Binary YAML JSON TOML Bash
+          # commit
+          COMMITTER_NAME: GitHubActionBot
