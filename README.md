@@ -29,10 +29,19 @@
 
 <!--START_SECTION:waka-->
 
-```typescript
-TypeScript                   >>>>>>>>>>>>>>>>>>>>-----   80.06 %
-Python                       >>>>---------------------   16.81 %
-CSS                          -------------------------   00.02 %
+```haskell
+From: 22 November 2019 - To: 12 November 2024
+
+Total Time: 7,042 hrs 58 mins
+
+TypeScript         3,035 hrs 56 mins██████████▓░░░░░░░░░░░░░░   42.59 %
+Python             1,350 hrs 2 mins████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+JavaScript         1,168 hrs 10 mins████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Vue.js             652 hrs 49 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+PHP                142 hrs 3 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Other              85 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown           73 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+SQL                45 hrs 48 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
