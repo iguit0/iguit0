@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 9 * * *"
 
 jobs:
   update-readme:
@@ -14,10 +14,11 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
-          SHOW_TIME: false
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          TIME_RANGE: all_time
           CODE_LANG: typescript
           BLOCKS: ->
           STOP_AT_OTHER: true
-          LANG_COUNT: 3
+          LANG_COUNT: 10
           IGNORED_LANGUAGES: YAML JSON TOM Bash
