@@ -3,8 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 9 * * *"
 
 jobs:
   update-readme:
@@ -17,7 +16,8 @@ jobs:
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          CODE_LANG: rust
+          BLOCKS: ░▒▓█
+          CODE_LANG: haskell
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
