@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 22 November 2019 - To: 29 November 2024
+From: 22 November 2019 - To: 01 December 2024
 
-Total Time: 7,116 hrs 49 mins
+Total Time: 7,122 hrs 7 mins
 
-TypeScript         3,074 hrs 29 mins██████████▓░░░░░░░░░░░░░░   42.69 %
-Python             1,373 hrs 36 mins████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
-JavaScript         1,168 hrs 10 mins████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+TypeScript         3,079 hrs 47 mins██████████▓░░░░░░░░░░░░░░   42.73 %
+Python             1,373 hrs 36 mins████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+JavaScript         1,168 hrs 10 mins████░░░░░░░░░░░░░░░░░░░░░   16.21 %
 Vue.js             652 hrs 49 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
 PHP                142 hrs 3 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Other              85 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
