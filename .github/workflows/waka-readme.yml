@@ -16,7 +16,6 @@ jobs:
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ░▒▓█
           CODE_LANG: haskell
           TIME_RANGE: all_time
           LANG_COUNT: 10
