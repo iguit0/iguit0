@@ -29,17 +29,17 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```python
 From: 22 November 2019 - To: 01 January 2025
 
 Total Time: 7,201 hrs 14 mins
 
-TypeScript         3,128 hrs 3 mins>>>>>>>>>>>==============   42.92 %
-Python             1,394 hrs 20 mins>>>>>====================   19.13 %
-JavaScript         1,168 hrs 11 mins>>>>=====================   16.03 %
-Vue.js             652 hrs 49 mins >>=======================   08.96 %
-PHP                142 hrs 3 mins  =========================   01.95 %
-Other              86 hrs 4 mins   =========================   01.18 %
+TypeScript         3,128 hrs 3 mins###########--------------   42.92 %
+Python             1,394 hrs 20 mins#####--------------------   19.13 %
+JavaScript         1,168 hrs 11 mins####---------------------   16.03 %
+Vue.js             652 hrs 49 mins ##-----------------------   08.96 %
+PHP                142 hrs 3 mins  -------------------------   01.95 %
+Other              86 hrs 4 mins   -------------------------   01.18 %
 ```
 
 <!--END_SECTION:waka-->
