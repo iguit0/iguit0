@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello! I'm Igor</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/igor-lucio-alves" target="_blank">LinkedIn</a> •
+    <a href="https://x.com/iguit0" target="_blank">X</a> •
   <a href="https://stackoverflow.com/users/12039222/igor-alves" target="_blank">StackOverflow</a>
 </p>
 
@@ -14,14 +15,14 @@
 
 <!------->
 
-🎯 **Tech Stack**
+🎯 **Skills**
 
 <div style="display: inline-block;" align="center">
-  <img align="center" alt="iguit0-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-  <img align="center" alt="iguit0-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="iguit0-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="iguit0-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="iguit0-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="iguit0-ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+  <img align="center" alt="iguit0-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="iguit0-fastapi" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
+  <img align="center" alt="iguit0-react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="iguit0-postgresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
 -------
 
