@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hello! I'm Igor</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/igor-lucio-alves">LinkedIn</a> •
-    <a href="https://x.com/iguit0">X</a> •
   <a href="https://stackoverflow.com/users/12039222/igor-alves">StackOverflow</a>
 </p>
 
